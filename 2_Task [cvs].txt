@@ -1,0 +1,17 @@
+task [cvs]
+
+Hey Vera, 
+I have made a CSV file for you. 
+A CSV file is a structured way
+ to share data that is also readable as plain text. 
+ It is like Excel, but you don't need Excel 
+ (although Excel is also able to work with CSV files).
+ In this CSV file I'll attach there are three columns 
+ (each separated by a comma ","). 
+ They are state, price, and sqft (square feet).
+ There are 10,000 rows and each one of these represents a record. 
+ I'd like you to write a Python program to open this file 
+ and count
+ how many properties in California have 
+ a price per square foot of $40 / square foot (or more).
+ All of this data is random, but it will be good for this exercise.
